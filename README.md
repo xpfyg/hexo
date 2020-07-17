@@ -1,6 +1,6 @@
 # hexo
 技术小栈的hexo
-[hexo文档]（https://hexo.bootcss.com/docs/commands.html）
+(hexo文档)[https://hexo.bootcss.com/docs/commands.html]
 
 ## 写作
 ```
