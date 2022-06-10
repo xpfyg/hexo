@@ -41,6 +41,7 @@ jobs:
           # set git infomation
           git config --global user.name 'xpfyg'
           git config --global user.email '997052247@qq.com'
+          sed -i'' "/^ *repo/s~github\.com~${ACTION_DEPLOY_KEY}@github.com~" _config.ym
           # install dependencies
           npm i -g hexo-cli
           npm i
