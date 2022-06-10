@@ -99,6 +99,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: 'git'
-  repo: https://00000@00000@github.com/xpfyg/xpfyg.github.io.git
+  repo: https://github.com/xpfyg/xpfyg.github.io.git
   branch: master
   token: ${{ secrets.hexo }}
